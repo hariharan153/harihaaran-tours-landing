@@ -1,1 +1,4 @@
-{}\n", "path": ".gitignore"}, {"content": "# Vercel Deployment\nvercel.json configuration for optimal deployment\n", "path": "vercel.json"}]
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}

@@ -14,8 +14,8 @@ export default {
         'wander-text': '#2a3b45',
       },
       fontFamily: {
-        'outfit': ['Outfit', 'ui-serif', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
-        'inter': ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'sans-serif'],
+        'outfit': ['Outfit', 'serif'],
+        'inter': ['Inter', 'sans-serif'],
       },
     },
   },
