@@ -17,21 +17,6 @@ export default {
         'outfit': ['Outfit', 'ui-serif', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
         'inter': ['Inter', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'sans-serif'],
       },
-      fontSize: {
-        '4xl': '2.25rem',
-        '5xl': '3rem',
-        '6xl': '3.75rem',
-      },
-      borderRadius: {
-        '32': '32px',
-        '40': '40px',
-      },
-      maxWidth: {
-        '1600': '1600px',
-      },
-      spacing: {
-        '22': '5.5rem',
-      },
     },
   },
   plugins: [],
